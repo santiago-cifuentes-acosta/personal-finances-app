@@ -1,5 +1,5 @@
 # personal-finances-app
-Idea for including time meassures into a banking app reflecting Pepe Mujica's quote "when you buy something you don't buy it with money but with the time of your life it took you to earn that money". The app also allows the user to record recurring expenses like gym memberships and savings folders, and to visualise how much money is not compromised
+Idea for including time meassures into a banking app reflecting Pepe Mujica's quote "when you buy something you don't buy it with money but with the time of your life it took you to earn that money". The app also allows the user to record recurring expenses like gym memberships and savings folders, and to visualise how much money is not committed to savings folders. 
 
 # Personal Finance CLI
 A simple command-line personal finance tracker written in Python.  
@@ -45,9 +45,11 @@ All data is stored in CSV files in the same folder as the .py file:
 
 The main script, `personalfinance.py`, presents a text menu and executes the selected action.
 
+The CSV files already come with some rows in them for the user to be able to visualise, but the user can also add new ones using the algorithm's own functions.
+
 ## Installation
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/personal-finance-cli.git
+   git clone https://github.com/santiago-cifuentes-acosta/personal-finance-cli.git
    cd personal-finance-cli
