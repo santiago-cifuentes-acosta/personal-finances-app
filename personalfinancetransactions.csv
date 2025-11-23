@@ -1,0 +1,26 @@
+transaction_id,entity,amount,type,notes,balance_after_transation
+
+1,self,400,in,,400
+
+2,mum,150,in,pocket_money,550
+
+3,McDonald's,4.48,out,a burger and a chocolate milkshake,545.2
+
+4,British Library,2.15,out,Chocolate croissant,543.05
+
+5,Julian,40.0,in,Cleaning,583.05
+
+6,Budista,25.0,in,Cleaning,608.05
+
+7,Nando's,25.0,out,Lunch with dad,583.05
+
+8,Julian,40.0,in,"Cleaning, earned more because I cleaned alone",623.05
+
+9,Joanna,12.0,in,Grammar check for her essay,635.05
+
+10,McDonald's,5.23,out,Double burger,629.82
+
+11,McDonald's,1.99,out,chocolate milkshake,627.83
+
+12,Tara Cleaning,20.0,in,,647.83
+
